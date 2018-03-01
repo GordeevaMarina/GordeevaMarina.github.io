@@ -1,0 +1,52 @@
+﻿h1
+{ text-align: center
+}
+body
+{ text-align: left
+}
+body 
+{
+background: url(dfn.jpg);
+}
+h1
+{
+font-family:  Arial, Helvetica, sans-serif;
+font-size: 30px;
+color: DarkRed;
+font-style: italic;
+font-weight: bold;
+}
+h2
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: FireBrick;
+}
+p, li
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+}
+li
+{
+list-style-type: cricle;
+}
+a
+{
+color: Brown;
+text-decoration: none;
+}
+a:hover
+{
+background-color: black;
+color: white;
+}
+img
+{
+width: 350px;
+height: auto;
+border-style: groove;
+border-width: 2px;
+border-color: Chocolate;
+padding: 5px;
+}
